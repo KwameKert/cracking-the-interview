@@ -8,6 +8,6 @@ public class Main {
     public static void main(String[] args) {
 	// write your code here
      //   System.out.println(IsUnique.run("hello"));
-        IsPermutation.run("hello","elloh");
+        System.out.println(IsPermutation.run("hello","lloh"));
     }
 }
