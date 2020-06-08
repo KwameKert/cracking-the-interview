@@ -23,26 +23,20 @@ public class IsUnique {
             if(char_set[val]){
                 System.out.println(val);
                 return false;
-
             }else{
                 char_set[val] = true;
             }
-
         }
-
-        System.out.println(char_set);
-
         return true;
-
     }
 
 
-    public static String sortString(String string){
-        //convert string to array of characters
-        char tempArray[] = string.toCharArray();
-        //sort the array
-        Arrays.sort(tempArray);
-        return new String(tempArray);
-    }
+//    public static String sortString(String string){
+//        //convert string to array of characters
+//        char tempArray[] = string.toCharArray();
+//        //sort the array
+//        Arrays.sort(tempArray);
+//        return new String(tempArray);
+//    }
 }
 
