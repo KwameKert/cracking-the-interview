@@ -17,7 +17,7 @@ public class IsUnique {
 
     public static boolean run(String string){
         //character holder
-        boolean[] char_set = new boolean[126];
+        boolean[] char_set = new boolean[128];
         for(int i=0; i < string.length(); i++){
                 char val = string.charAt(i);
             if(char_set[val]){
