@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="773aa7a2-ba1c-4f50-ba87-f32e58d347de" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/codeinsyt/arrays/Urlify.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/codeinsyt/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/codeinsyt/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/codeinsyt/arrays/IsUnique.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/codeinsyt/arrays/IsUnique.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/cracking-the-interview/com/codeinsyt/arrays/Urlify.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/cracking-the-interview/com/codeinsyt/arrays/Urlify.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/codeinsyt/arrays/Urlify.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/codeinsyt/arrays/Urlify.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,6 +28,9 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
@@ -60,21 +63,41 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1165" height="176" key="GridCell.Tab.0.bottom" timestamp="1591662617478">
+    <state x="435" y="140" width="486" height="510" key="FileChooserDialogImpl" timestamp="1591742299295">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state width="1165" height="176" key="GridCell.Tab.0.bottom/0.27.1366.741@0.27.1366.741" timestamp="1591662617478" />
-    <state width="1165" height="176" key="GridCell.Tab.0.center" timestamp="1591662617478">
+    <state x="435" y="140" width="486" height="510" key="FileChooserDialogImpl/0.27.1366.741@0.27.1366.741" timestamp="1591742299295" />
+    <state width="1165" height="207" key="GridCell.Tab.0.bottom" timestamp="1591667456238">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state width="1165" height="176" key="GridCell.Tab.0.center/0.27.1366.741@0.27.1366.741" timestamp="1591662617478" />
-    <state width="1165" height="176" key="GridCell.Tab.0.left" timestamp="1591662617478">
+    <state width="1165" height="207" key="GridCell.Tab.0.bottom/0.27.1366.741@0.27.1366.741" timestamp="1591667456238" />
+    <state width="1165" height="207" key="GridCell.Tab.0.center" timestamp="1591667456237">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state width="1165" height="176" key="GridCell.Tab.0.left/0.27.1366.741@0.27.1366.741" timestamp="1591662617478" />
-    <state width="1165" height="176" key="GridCell.Tab.0.right" timestamp="1591662617478">
+    <state width="1165" height="207" key="GridCell.Tab.0.center/0.27.1366.741@0.27.1366.741" timestamp="1591667456237" />
+    <state width="1165" height="207" key="GridCell.Tab.0.left" timestamp="1591667456237">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state width="1165" height="176" key="GridCell.Tab.0.right/0.27.1366.741@0.27.1366.741" timestamp="1591662617478" />
+    <state width="1165" height="207" key="GridCell.Tab.0.left/0.27.1366.741@0.27.1366.741" timestamp="1591667456237" />
+    <state width="1165" height="207" key="GridCell.Tab.0.right" timestamp="1591667456237">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1165" height="207" key="GridCell.Tab.0.right/0.27.1366.741@0.27.1366.741" timestamp="1591667456237" />
+    <state x="278" y="95" width="799" height="601" key="NewModule_or_Project.wizard" timestamp="1591742302806">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="278" y="95" width="799" height="601" key="NewModule_or_Project.wizard/0.27.1366.741@0.27.1366.741" timestamp="1591742302806" />
+    <state x="172" y="32" key="SettingsEditor" timestamp="1591741201333">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="172" y="32" key="SettingsEditor/0.27.1366.741@0.27.1366.741" timestamp="1591741201333" />
+    <state x="343" y="225" key="com.intellij.ide.util.TipDialog" timestamp="1592610214003">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="343" y="225" key="com.intellij.ide.util.TipDialog/0.27.1366.741@0.27.1366.741" timestamp="1592610214003" />
+    <state x="4" y="27" width="1347" height="737" key="new project wizard" timestamp="1591742061006">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="4" y="27" width="1347" height="737" key="new project wizard/0.27.1366.741@0.27.1366.741" timestamp="1591742061006" />
   </component>
 </project>
