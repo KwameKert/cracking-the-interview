@@ -18,11 +18,8 @@ public class Urlify {
         int spaceCount = countSpaces(str, trueLength);
         //get total index of new string;
         int index =  trueLength + spaceCount*2;
-        System.out.println("Index: "+index);
 
-        System.out.println("string before : "+s);
         if (trueLength < str.length) str[trueLength] = '\0';
-        System.out.println("string after : "+str);
 
         for(int i = trueLength -1; i >=0; i --){
             if(str[i] == ' '){
