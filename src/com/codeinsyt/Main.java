@@ -11,7 +11,7 @@ public class Main {
        // System.out.println(Urlify.run("kwkame is nice      ", 14));
         //System.out.println(PalindromePermutation.run("Tapt Coa"));
       //  System.out.println(OneWay.run("pale","bake"));
-        System.out.println(String.valueOf(2).length() + 2);
+        System.out.println(StringCompression.run("aaaaabbbbbccccdddd"));
     }
 
 }
